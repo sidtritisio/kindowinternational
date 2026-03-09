@@ -1,21 +1,34 @@
-# Services — Kindow International
+# Services — ki (Kindow International)
 
-## Overview
-We provide strategic and technical consulting to help startups grow, scale, and navigate emerging technologies.
+ki provides strategic consulting and intelligent systems designed to help Web3 protocols scale sustainably.
 
-## Core Services
+---
 
-### Strategy & Advisory
-Helping founders and organizations clarify their vision, structure their ideas, and develop sustainable business strategies.
+## Discovery & Strategy Session
 
-### Technology Consulting
-Advising companies on technology tools, systems, and emerging innovations that can support business growth.
+A complimentary 30-minute consultation designed to evaluate your protocol’s operational health.  
+We identify inefficiencies in your data architecture, assess potential risk exposures, and explore how AI-driven systems can support scalable growth.
 
-### Growth & Development
-Helping organizations identify opportunities for expansion, partnerships, and operational improvement.
+---
 
-## Future Areas
-- AI integration
-- Web3 strategy
-- Startup advisory
-- Business systems design
+## On-Chain Intelligence & Analytics
+
+Transform complex blockchain data into strategic clarity.
+
+We design custom dashboards that track user behavior, token adoption, and ecosystem growth, allowing teams to make confident, data-backed decisions.
+
+---
+
+## AI-Powered Risk & Compliance
+
+Automate your protocol’s monitoring and reporting.
+
+Our AI systems monitor lending pools, staking contracts, and treasury flows in real time, flagging anomalies and generating automated compliance reports.
+
+---
+
+## Treasury & Protocol Strategy
+
+Strengthen your protocol’s financial sustainability.
+
+We advise on treasury diversification, yield strategies, and risk-adjusted capital frameworks to support long-term protocol growth.
