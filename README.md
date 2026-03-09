@@ -3,7 +3,7 @@ Hi, I'm Sidounia
 
 I'm building ki and learning how to use GitHub.
 
-ki (Kindow International) is a consulting initiative focused on strategy, technology, and business development.
+ki (Kindow International) is a consulting initiative focused on bridging the gap between cryptographic complexity and executive clarity. We partner with Web3 founders and protocols to transform complex blockchain data into actionable intelligence, resilient financial strategy, and sustainable growth systems.
 
 ## Currently working on
 - Building my business presence
