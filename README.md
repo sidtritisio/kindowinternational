@@ -4,7 +4,7 @@
 
 <br>
 
-# ki — Kindow International
+# ki (Kindow International)
 
 Hi, I'm Sidounia
 
