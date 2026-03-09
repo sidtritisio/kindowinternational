@@ -1,5 +1,11 @@
-![KI Logo](ki-logo.png)
-# ki (Kindow International)
+<p align="center">
+  <img src="ki-logo.png" width="180">
+</p>
+
+<br>
+
+# ki — Kindow International
+
 Hi, I'm Sidounia
 
 I'm building ki and learning how to use GitHub.
