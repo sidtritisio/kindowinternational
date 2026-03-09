@@ -1,3 +1,4 @@
+![KI Logo](ki-logo.png)
 # ki (Kindow International)
 Hi, I'm Sidounia
 
