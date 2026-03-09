@@ -3,6 +3,8 @@ Hi, I'm Sidounia
 
 I'm building ki and learning how to use GitHub.
 
+ki (Kindow International) is a consulting initiative focused on strategy, technology, and business development.
+
 ## Currently working on
 - Building my business presence
 - Learning GitHub basics
